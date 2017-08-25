@@ -1,0 +1,10 @@
+package com.example.library;
+
+import retrofit2.http.GET;
+
+public interface RestAPI {
+	@GET("/rest")
+	Call<ResponseBody> getBooks(@Query("username") String username,@Query("subject") String subject);
+	
+
+}

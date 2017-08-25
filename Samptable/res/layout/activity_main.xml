@@ -1,0 +1,139 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    xmlns:android2="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android2:id="@+id/editText1"
+            android2:layout_width="wrap_content"
+            android2:layout_height="wrap_content"
+            android2:ems="10"
+            android2:inputType="textEmailAddress" >
+
+            <requestFocus />
+        </EditText>
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Password"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <EditText
+                android2:id="@+id/editText2"
+                android2:layout_width="wrap_content"
+                android2:layout_height="wrap_content"
+                android2:ems="10"
+                android2:inputType="textPassword" />
+
+        </TableRow>
+
+        <TableRow
+            android2:id="@+id/tableRow3"
+            android2:layout_width="wrap_content"
+            android2:layout_height="wrap_content" >
+
+            <TextView
+                android2:id="@+id/textView3"
+                android2:layout_width="wrap_content"
+                android2:layout_height="wrap_content"
+                android2:text="Rollno"
+                android2:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <EditText
+                android2:id="@+id/editText3"
+                android2:layout_width="wrap_content"
+                android2:layout_height="wrap_content"
+                android2:ems="10" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Year"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+             <RadioGroup
+            android2:id="@+id/radioGroup1"
+            android2:layout_width="wrap_content"
+            android2:layout_height="wrap_content" >
+
+            <RadioButton
+                android2:id="@+id/radio0"
+                android2:layout_width="wrap_content"
+                android2:layout_height="wrap_content"
+                android2:checked="true"
+                android2:text="4" />
+
+            <RadioButton
+                android2:id="@+id/radio1"
+                android2:layout_width="wrap_content"
+                android2:layout_height="wrap_content"
+                android2:text="3" />
+            
+             <RadioButton
+                android2:id="@+id/radio2"
+                android2:layout_width="wrap_content"
+                android2:layout_height="wrap_content"
+                android2:text="2" />
+             
+              <RadioButton
+                android2:id="@+id/radio3"
+                android2:layout_width="wrap_content"
+                android2:layout_height="wrap_content"
+                android2:text="1" />
+              
+       </RadioGroup>
+            
+        </TableRow>
+
+        <TableRow
+            android2:id="@+id/tableRow5"
+            android2:layout_width="wrap_content"
+            android2:layout_height="wrap_content" >
+
+            <Button
+                android2:id="@+id/button1"
+                style="?android:attr/buttonStyleSmall"
+                android2:layout_width="wrap_content"
+                android2:layout_height="wrap_content"
+                android2:onClick="Reset"
+                android2:text="Reset" />
+
+            <Button
+                android2:id="@+id/button2"
+                style="?android:attr/buttonStyleSmall"
+                android2:layout_width="wrap_content"
+                android2:layout_height="wrap_content"
+                android2:onClick="Submit"
+                android2:text="Submit" />
+
+        </TableRow>
+    
+    </TableLayout>

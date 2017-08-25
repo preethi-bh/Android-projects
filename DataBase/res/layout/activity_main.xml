@@ -1,0 +1,119 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name" />
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10" >
+
+            <requestFocus />
+        </EditText>
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Roll no" />
+
+            <EditText
+                android:id="@+id/editText2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="number" />
+
+        </TableRow>
+
+        <TableRow
+            android1:id="@+id/tableRow3"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content" >
+
+            <TextView
+                android1:id="@+id/textView3"
+                android1:layout_width="wrap_content"
+                android1:layout_height="wrap_content"
+                android1:text="Year" />
+
+            <EditText
+                android1:id="@+id/editText3"
+                android1:layout_width="wrap_content"
+                android1:layout_height="wrap_content"
+                android1:ems="10"
+                android1:inputType="number" />
+
+        </TableRow>
+
+        <TableRow
+            android1:id="@+id/tableRow4"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content" >
+
+            <Button
+                android1:id="@+id/button1"
+                android1:layout_width="100dp"
+                android1:layout_height="50dp"
+                android1:onClick="Insert"
+                android1:text="Insert" />
+
+            <Button
+                android1:id="@+id/button2"
+                android1:layout_width="100dp"
+                android1:layout_height="50dp"
+                android1:onClick="Update"
+                android1:text="Update" />
+            
+      
+
+        </TableRow>
+
+        <TableRow
+            android1:id="@+id/tableRow5"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content" >
+
+            <Button
+                android1:id="@+id/button3"
+                android1:layout_width="wrap_content"
+                android1:layout_height="wrap_content"
+                android1:onClick="Retrieve"
+                android1:text="Retrieve" />
+
+            <Button
+                android1:id="@+id/button4"
+                android1:layout_width="wrap_content"
+                android1:layout_height="wrap_content"
+                android1:onClick="Retrieve2"
+                android1:text="Retrieve all" />
+
+        </TableRow>
+
+        <Button
+            android1:id="@+id/button5"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:onClick="Delete"
+            android1:text="Delete" />
+
+    </TableLayout>

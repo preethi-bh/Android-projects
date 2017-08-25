@@ -1,0 +1,9 @@
+package com.example.library;
+
+public interface RestAPI {
+	@GET("/rest")
+	
+	public 
+	
+
+}

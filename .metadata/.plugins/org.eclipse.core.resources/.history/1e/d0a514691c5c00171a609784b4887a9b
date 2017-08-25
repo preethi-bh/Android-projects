@@ -1,0 +1,104 @@
+package com.example.library.model;
+
+import java.util.Date;
+import java.util.List;
+
+import com.google.gson.annotations.SerializedName;
+
+public class Model {
+	public String bname;
+	
+	@SerializedName("username")
+	public String username;
+	
+	@SerializedName("rollno")
+	public String rollno;
+	
+	@SerializedName("mobileno")
+	public int mobileno;
+	
+	@SerializedName("bookid")
+	public int bookid;
+	
+	@SerializedName("status")
+	public String status;
+	
+	@SerializedName("issue_date")
+	public Date issue_date;
+	
+	@SerializedName("renew_date")
+	public Date renew_date;
+	
+	@SerializedName("edition")
+	public String edition;
+	
+	@SerializedName("subject")
+	public String subject;
+
+	public Model(String username,String subject){
+		this.username=username;
+		this.subject=subject;
+	}
+	public String getSubject() {
+		return subject;
+	}
+	public void setSubject(String subject) {
+		this.subject = subject;
+	}
+	public String getBname() {
+		return bname;
+	}
+	public void setBname(String bname) {
+		this.bname = bname;
+	}
+	public String getUsername() {
+		return username;
+	}
+	public void setUsername(String username) {
+		this.username = username;
+	}
+	public String getRollno() {
+		return rollno;
+	}
+	public void setRollno(String rollno) {
+		this.rollno = rollno;
+	}
+	public int getMobileno() {
+		return mobileno;
+	}
+	public void setMobileno(int mobileno) {
+		this.mobileno = mobileno;
+	}
+	public int getBookid() {
+		return bookid;
+	}
+	public void setBookid(int bookid) {
+		this.bookid = bookid;
+	}
+	public String getStatus() {
+		return status;
+	}
+	public void setStatus(String status) {
+		this.status = status;
+	}
+	public Date getIssue_date() {
+		return issue_date;
+	}
+	public void setIssue_date(Date issue_date) {
+		this.issue_date = issue_date;
+	}
+	public Date getRenew_date() {
+		return renew_date;
+	}
+	public void setRenew_date(Date renew_date) {
+		this.renew_date = renew_date;
+	}
+	public String getEdition() {
+		return edition;
+	}
+	public void setEdition(String edition) {
+		this.edition = edition;
+	}
+	
+	
+}

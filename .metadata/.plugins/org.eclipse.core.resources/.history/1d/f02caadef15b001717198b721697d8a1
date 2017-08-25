@@ -1,0 +1,16 @@
+package com.example.library;
+
+import java.util.List;
+
+import retrofit.Callback;
+import retrofit.http.GET;
+
+import com.example.library.model.Model;
+
+public interface RestAPI {
+	@GET("/rest")
+	
+	public void getBooks(Callback<List<Model>> response);
+	
+
+}

@@ -1,0 +1,17 @@
+package com.example.library;
+
+import retrofit2.Call;
+import retrofit2.http.GET;
+import retrofit2.http.Query;
+
+import com.example.library.model.Model;
+
+public interface RestAPI {
+	@GET("/rest")
+	Call<Model> getBooks(@Query("username") String username,@Query("subject") String subject);
+	
+	@PUT("/update")
+	
+	
+
+}

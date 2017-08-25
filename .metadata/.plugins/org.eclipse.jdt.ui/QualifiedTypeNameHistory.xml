@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="com.example.buttonapp1.R.id"/>
+<fullyQualifiedTypeName name="com.example.button2.R.id"/>
+<fullyQualifiedTypeName name="com.example.button2_2.R.id"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="com.example.checkandradio.R.id"/>
+<fullyQualifiedTypeName name="com.example.listview.R.id"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.layout"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.example.samptable.R.id"/>
+<fullyQualifiedTypeName name="android.net.Uri.Builder"/>
+<fullyQualifiedTypeName name="com.example.call.R.id"/>
+<fullyQualifiedTypeName name="com.example.browse.R.id"/>
+<fullyQualifiedTypeName name="android.provider.MediaStore"/>
+<fullyQualifiedTypeName name="com.example.sms.R.id"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="android.telephony.SmsManager"/>
+<fullyQualifiedTypeName name="android.database.sqlite.SQLiteDatabase"/>
+<fullyQualifiedTypeName name="android.app.PendingIntent"/>
+<fullyQualifiedTypeName name="java.net.MalformedURLException"/>
+<fullyQualifiedTypeName name="com.example.database.R.id"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="com.example.intent.R.id"/>
+<fullyQualifiedTypeName name="com.example.library.R.layout"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="retrofit.Callback"/>
+<fullyQualifiedTypeName name="com.example.library.MainActivity"/>
+<fullyQualifiedTypeName name="okhttp3.Callback"/>
+<fullyQualifiedTypeName name="com.example.library.R.id"/>
+</qualifiedTypeNameHistroy>

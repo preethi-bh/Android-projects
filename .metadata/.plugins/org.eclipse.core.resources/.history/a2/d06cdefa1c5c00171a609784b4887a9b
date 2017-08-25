@@ -1,0 +1,46 @@
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+       
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HOME"
+                style="@style/MainText"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+       
+            
+             <Button
+                android:id="@+id/button1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="borrow"
+                style="@style/Button"
+                android:text="Borrow" />
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="borrow"
+                style="@style/Button"
+                android:text="Borrow" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="renew"
+                style="@style/Button"
+                android:text="Renew" />
+      
+        	<Button
+	            android:id="@+id/button4"
+	           android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+            	android:onClick="reserve"
+            	style="@style/Button"
+            	android:text="Reserve" />
+    </TableLayout>

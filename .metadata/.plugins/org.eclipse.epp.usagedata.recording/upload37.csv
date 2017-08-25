@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.android.ide.eclipse.base,21.0.0.v201210310015-519525,"com.android.ide.eclipse.base",1496057701880
+os,sysinfo,,,"win32",1496057701880
+arch,sysinfo,,,"x86",1496057701880
+ws,sysinfo,,,"win32",1496057701880
+locale,sysinfo,,,"en_US",1496057701880
+processors,sysinfo,,,"4",1496057701880
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1496057701880
+java.runtime.version,sysinfo,,,"1.8.0_121-b13",1496057701880
+java.specification.name,sysinfo,,,"Java Platform API Specification",1496057701880
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1496057701880
+java.specification.version,sysinfo,,,"1.8",1496057701880
+java.vendor,sysinfo,,,"Oracle Corporation",1496057701880
+java.version,sysinfo,,,"1.8.0_121",1496057701880
+java.vm.info,sysinfo,,,"mixed mode",1496057701880
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1496057701880
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1496057701880
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1496057701880
+java.vm.specification.version,sysinfo,,,"1.8",1496057701880
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1496057701880
+java.vm.version,sysinfo,,,"25.121-b13",1496057701880
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1496057702566
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1496057702566
+started,bundle,org.eclipse.team.ui,3.6.100.I20110525-0800,"org.eclipse.team.ui",1496057702832
+started,bundle,org.eclipse.team.cvs.ui,3.3.400.I20110510-0800,"org.eclipse.team.cvs.ui",1496057703549
+started,bundle,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.adt",1496057704236
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1496057711583
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1496057711614
+started,bundle,org.eclipse.jst.servlet.ui,1.1.500.v201105122000,"org.eclipse.jst.servlet.ui",1496057722831
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.202.v201004211732,"org.eclipse.wst.ws.service.policy.ui",1496057730662
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1496057730678
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1496057730803
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1496057730818
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.200.v20110505-0800,"org.eclipse.ltk.core.refactoring",1496057731224
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring",1496057731286
+started,bundle,org.eclipse.compare.core,3.5.200.I20110208-0800,"org.eclipse.compare.core",1496057732175
+started,bundle,org.eclipse.compare,3.5.200.I20110525-0800,"org.eclipse.compare",1496057732222
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1496057735389
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1496057736029
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1496057736372
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1496057743314
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1496057743314
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1496057743314
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1496057751036
+started,bundle,org.eclipse.wst.sse.core,1.1.600.v201105162116,"org.eclipse.wst.sse.core",1496057858489
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1496057858707
+started,bundle,org.eclipse.ant.ui,3.5.100.v20110510,"org.eclipse.ant.ui",1496057858894
+started,bundle,org.eclipse.jpt.common.core,1.0.0.v201105180000,"org.eclipse.jpt.common.core",1496057859160
+started,bundle,org.eclipse.jpt.jpa.core,3.0.0.v201105250001,"org.eclipse.jpt.jpa.core",1496057859160
+started,bundle,org.eclipse.wst.xsl.core,1.1.100.v201102270516,"org.eclipse.wst.xsl.core",1496057860626
+started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1496057860642
+started,bundle,org.eclipse.wst.dtd.core,1.1.500.v201103300335,"org.eclipse.wst.dtd.core",1496057861297
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1496057861453
+error,log,,,"Failed to load properties file for project 'Library'",1496057861890
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.100.v201101252155,"org.eclipse.jst.ws.jaxws.dom.integration",1496057862124
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1496057862155
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1496057862248
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1496057862264
+started,bundle,org.eclipse.wst.sse.ui,1.3.0.v201105101529,"org.eclipse.wst.sse.ui",1496057862467
+started,bundle,org.eclipse.wst.xml.ui,1.1.200.v201105111835,"org.eclipse.wst.xml.ui",1496057862482
+started,bundle,org.eclipse.debug.ui,3.7.0.v20110518,"org.eclipse.debug.ui",1496057863668
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1496057864916
+started,bundle,org.eclipse.wst.xsl.ui,1.1.200.v201103082057,"org.eclipse.wst.xsl.ui",1496057865166
+started,bundle,org.eclipse.jem.workbench,2.0.400.v201104251400,"org.eclipse.jem.workbench",1496057866585
+started,bundle,org.eclipse.core.variables,3.2.500.v20110511,"org.eclipse.core.variables",1496057867069
+opened,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1496057869596
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1496057870766
+started,bundle,org.eclipse.jst.jsp.ui,1.1.600.v201105092017,"org.eclipse.jst.jsp.ui",1496057877755
+started,bundle,org.eclipse.jst.jsp.core,1.2.400.v201105162116,"org.eclipse.jst.jsp.core",1496057877833
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1496057886896
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937503
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937503
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937534
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937550
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937565
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937581
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937596
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937612
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937612
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937628
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937628
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937643
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937659
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937674
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937690
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937690
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937706
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937721
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937737
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937752
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937768
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937784
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937815
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937830
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937846
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937862
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937862
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937862
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937893
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937908
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937924
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937924
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937940
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937971
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937971
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057937971
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057938002
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057938033
+error,log,,,"TableRowRule.onResizeEnd() failed: java.lang.NullPointerException",1496057938579
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941465
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941465
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941497
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941512
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941528
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941528
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941543
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941543
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941559
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941575
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941590
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941590
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941590
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941621
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941637
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941653
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941653
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941684
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941699
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941715
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941715
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941731
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941746
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941762
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941777
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941793
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941824
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941840
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941855
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941887
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941887
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941902
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941918
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941933
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941949
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941949
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941949
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941965
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941965
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941980
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057941996
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057942011
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057942027
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057942027
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057942027
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057942058
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057942089
+error,log,,,"TableRowRule.onResizeEnd() failed: java.lang.NullPointerException",1496057942542
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945147
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945147
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945178
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945194
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945209
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945209
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945225
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945241
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945256
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945256
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945272
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945287
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945303
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945303
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945490
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496057945521
+error,log,,,"TableRowRule.onResizeEnd() failed: java.lang.NullPointerException",1496057945880
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1496057965396
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058071897
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058071897
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058071913
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058071928
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058071944
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058071944
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058071960
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058071975
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058071991
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072006
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072022
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072022
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072022
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072038
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072053
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072069
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072084
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072084
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072100
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072116
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072131
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072131
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072147
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072162
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072162
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072178
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072194
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072209
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072225
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072225
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072240
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072256
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072272
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072272
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072287
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072303
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072318
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072318
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072334
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072334
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072350
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072365
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072381
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072396
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072412
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072412
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072428
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072459
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072490
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072506
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072521
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1496058072552
+error,log,,,"TableRowRule.onResizeEnd() failed: java.lang.NullPointerException",1496058072974
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1496058169647
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1496058177993
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1496058182564
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1496058185887
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1496058191721
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1496058197930
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1496058206666
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1496058419060
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1496058452834
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058461274
+started,bundle,org.eclipse.jdt.debug,3.7.0.v20110509,"org.eclipse.jdt.debug",1496058461851
+started,bundle,org.eclipse.jdt.debug.ui,3.6.0.v20110512,"org.eclipse.jdt.debug.ui",1496058462163
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058462303
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110505-0800,"org.eclipse.jdt.junit",1496058470712
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1496058470774
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1496058470821
+started,bundle,org.eclipse.pde.ui,3.6.100.v20110603,"org.eclipse.pde.ui",1496058470852
+executed,command,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1496058481835
+started,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1496058516514
+started,bundle,org.eclipse.jpt.jaxb.ui,1.1.0.v201105180000,"org.eclipse.jpt.jaxb.ui",1496058516545
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.0.v201105170000,"org.eclipse.jpt.jpa.ui",1496058516592
+started,bundle,org.eclipse.jst.ws.jaxws.ui,1.0.100.v201104032053,"org.eclipse.jst.ws.jaxws.ui",1496058516670
+started,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1496058516685
+started,bundle,org.eclipse.pde.api.tools,1.0.300.v20110523-1600,"org.eclipse.pde.api.tools",1496058516888
+started,bundle,org.eclipse.pde.api.tools.ui,1.0.300.v20110523-1600,"org.eclipse.pde.api.tools.ui",1496058516888
+started,bundle,org.eclipse.jpt.jaxb.core,1.0.0.v201105240000,"org.eclipse.jpt.jaxb.core",1496058517169
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1496058532270
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058541474
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1496058564686
+started,bundle,org.eclipse.mylyn.resources.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.resources.ui",1496058564842
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058580817
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058580895
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058586714
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058586714
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1496058603624
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1496058605278
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1496058609380
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1496058619068
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1496058630394
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1496058667069
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058667288
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058667366
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1496058670657
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058670860
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058670938
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1496058673434
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1496058697911
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1496058700797

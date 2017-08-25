@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1489733549911
+opened,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1489733550519
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1489733550597
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.100.v201101252155,"org.eclipse.jst.ws.jaxws.dom.integration",1489733550722
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1489733551065
+activated,view,com.android.ide.eclipse.ddms,21.0.0.v201210310015-519525,"com.android.ide.eclipse.ddms.views.LogCatView",1489733568896
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1489733568912
+opened,view,org.eclipse.ui.ide,3.7.0.I20110519-0100,"org.eclipse.ui.views.AllMarkersView",1489733569224
+closed,view,com.android.ide.eclipse.ddms,21.0.0.v201210310015-519525,"com.android.ide.eclipse.ddms.views.LogCatView",1489733569239
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489733594855
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineStart",1489733594855
+closed,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1489733602452
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733673650
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733673666
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733673666
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733673697
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733673713
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733673744
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733673775
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733673791
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733674118
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733674165
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733674181
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733674259
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733674290
+error,log,,,"TableRowRule.onResizeEnd() failed: java.lang.NullPointerException",1489733674680
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489733773647
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489733936885
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993123
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993123
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993155
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993170
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993186
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993217
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993248
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993248
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993279
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993295
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993311
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993342
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489733993373
+error,log,,,"TableRowRule.onResizeEnd() failed: java.lang.NullPointerException",1489733994059
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734015821
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734015837
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734015853
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734015884
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734015899
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734015915
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734015931
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734015962
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734015977
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734015993
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016009
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016024
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016024
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016040
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016055
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016071
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016071
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016087
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016102
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016118
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016118
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016133
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016149
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016165
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016165
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016180
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016180
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016196
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016211
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016227
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016227
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016227
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016243
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016258
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734016274
+error,log,,,"TableRowRule.onResizeEnd() failed: java.lang.NullPointerException",1489734016679
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489734018302
+started,bundle,org.eclipse.jst.jsp.ui,1.1.600.v201105092017,"org.eclipse.jst.jsp.ui",1489734048550
+started,bundle,org.eclipse.jst.jsp.core,1.2.400.v201105162116,"org.eclipse.jst.jsp.core",1489734048644
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1489734071092
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1489734083058
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489734099328
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1489734101247
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1489734116551
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1489734138063
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1489734146706
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489734157392
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1489734170792
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489734190417
+started,bundle,org.eclipse.compare,3.5.200.I20110525-0800,"org.eclipse.compare",1489734225579
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1489734239978
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1489734244143
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1489734252162
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489734293252
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1489734294953
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734335918
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734335918
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734335965
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734335965
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734335996
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336012
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336028
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336043
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336043
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336043
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336059
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336074
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336090
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336090
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336106
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336121
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336121
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336152
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336152
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336168
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336184
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336215
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336230
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336262
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336340
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336402
+error,log,,,"TableLayoutRule.onResizeUpdate() failed: java.lang.NullPointerException",1489734336433
+error,log,,,"TableLayoutRule.onResizeEnd() failed: java.lang.NullPointerException",1489734336823
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1489734592258
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1489734596189
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1489734604863
+started,bundle,org.eclipse.jdt.debug.ui,3.6.0.v20110512,"org.eclipse.jdt.debug.ui",1489734605362
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1489734605471
+started,bundle,org.eclipse.core.variables,3.2.500.v20110511,"org.eclipse.core.variables",1489734605596
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110505-0800,"org.eclipse.jdt.junit",1489734618029
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1489734618092
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1489734618123
+started,bundle,org.eclipse.pde.ui,3.6.100.v20110603,"org.eclipse.pde.ui",1489734618138
+started,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1489734675281
+started,bundle,org.eclipse.jpt.jaxb.ui,1.1.0.v201105180000,"org.eclipse.jpt.jaxb.ui",1489734675328
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.0.v201105170000,"org.eclipse.jpt.jpa.ui",1489734675344
+started,bundle,org.eclipse.jst.ws.jaxws.ui,1.0.100.v201104032053,"org.eclipse.jst.ws.jaxws.ui",1489734675469
+started,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1489734675500
+started,bundle,org.eclipse.pde.api.tools,1.0.300.v20110523-1600,"org.eclipse.pde.api.tools",1489734675640
+started,bundle,org.eclipse.pde.api.tools.ui,1.0.300.v20110523-1600,"org.eclipse.pde.api.tools.ui",1489734675656
+started,bundle,org.eclipse.jpt.jaxb.core,1.0.0.v201105240000,"org.eclipse.jpt.jaxb.core",1489734675937
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1489734696934
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1489734701443
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1489734713080
+executed,command,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1489734721598
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734729959
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734736121
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734746979
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734914617
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734931527
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734934304
+executed,command,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1489734942229
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734949452
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734959498
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734964225
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734967610
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734973195
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489734985363
+executed,command,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1489734997282
+executed,command,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1489734999481
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735015300
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735018544
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735029340
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735045486
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735073659
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735097839
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735101427
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735107246
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735108042
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735122300
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735129835
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735133907
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735139445
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735142986
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735156589
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735159647
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735183140
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735190550
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735220690
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735229644
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735244511
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735248177
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735249893
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735296350
+executed,command,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1489735340279
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735343649
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735351527
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735368999
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735380418
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489735400620
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489735400807
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489735401010
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489735401197
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489735401416
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735438747
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735440790
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1489735459854
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1489735464736
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1489735475968
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735487684
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735509056
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735573781
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735698565
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735703354
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735716084
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735768594
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735775021
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1489735818545
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1489735822227
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1489735826501
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1489735831899
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735834504
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735895079
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735924750
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735937558
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735940834
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489735948041
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736017118
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736089627
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736121544
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736248232
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736270213
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736270400
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736270603
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736270805
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736271008
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736271195
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736271414
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736271648
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736272022
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736291787
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736292084
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736292287
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736292474
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736292661
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736292848
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736293051
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736293269
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736293488
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736293691
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736293893
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736294096
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736294330
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736294907
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736322972
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736327730
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110518-0800,"org.eclipse.jdt.junit.core",1489736361878
+started,bundle,org.eclipse.wst.server.core,1.1.302.v20110518,"org.eclipse.wst.server.core",1489736362206
+started,bundle,org.eclipse.wst.server.ui,1.1.305.v20110511,"org.eclipse.wst.server.ui",1489736362315
+started,bundle,org.eclipse.wst.jsdt.debug.rhino.ui,1.0.0.v201103232243,"org.eclipse.wst.jsdt.debug.rhino.ui",1489736362627
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736385138
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736389927
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736392532
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736394888
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736396854
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736402033
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736431064
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736442546
+executed,command,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1489736471469
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736512185
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736527847
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736584163
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1489736600216
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736757011
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736757199
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736757386
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736757573
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736757776
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736758119
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736758322
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1489736758540
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1489736802002
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1489736806713
